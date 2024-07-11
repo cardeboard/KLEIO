@@ -1,0 +1,128 @@
+﻿# Scriptable Levy template, used to determine levy composition for different cultures.
+# 	Each entry is either a levy tier "basic", "advanced", "special" which means that any subunit 
+# 	marked as such could be chose to fill that slot, or it can be specific subunit type such as "archers".
+#
+#	NOTE: All numbers are relative percentages, ex. 0.2 means that 20% of this template should be a certain tier or unit
+#	2nd NOTE: Support units will be added automatically in code when a certain size of Levy is raised, replacing another unit
+#	3rd NOTE: If a specific subunit cannot be constructed for some reason another one that can from that tier will replace it ( if possible )
+#
+
+levy_anatolian = {	#General Anatolian
+	default = no
+
+	light_infantry = 0.5
+	archers = 0.2
+	light_cavalry = 0.1
+
+	heavy_cavalry = 0.1
+	heavy_infantry = 0.1
+}
+
+levy_armenian = {	#Armenians
+	default = no
+
+	archers = 0.2
+	light_infantry = 0.3
+	light_cavalry = 0.1
+
+	heavy_infantry = 0.1
+	horse_archers = 0.1
+	heavy_cavalry = 0.2
+}
+
+levy_pontus = {	#Pontus
+	default = no
+
+	archers = 0.3
+	light_infantry = 0.3
+	
+	light_cavalry = 0.15
+	heavy_cavalry = 0.1
+	chariots = 0.15
+}
+
+levy_cappadocia = {	#Cappadocia
+	default = no
+
+	light_infantry = 0.30
+	archers = 0.15
+	
+	light_cavalry = 0.35
+	heavy_cavalry = 0.1
+	chariots = 0.1
+}
+
+levy_cilician = {	#Cilicia
+	default = no
+
+	light_infantry = 0.3
+	archers = 0.1
+	light_cavalry = 0.3
+	
+	heavy_infantry = 0.3
+}
+
+levy_carian = {
+	default = no
+
+	light_infantry = 0.35
+	archers = 0.2
+	light_cavalry = 0.1
+
+	heavy_infantry = 0.25
+	heavy_cavalry = 0.1
+}
+ 
+levy_pisidian = {
+	default = no
+
+	light_infantry = 0.3
+	archers = 0.2
+	light_cavalry = 0.2
+
+	heavy_infantry = 0.3
+}
+
+levy_pamphylian = {
+	default = no
+
+	light_infantry = 0.3
+	archers = 0.2
+	light_cavalry = 0.2
+
+	heavy_infantry = 0.3
+}
+
+
+levy_lydian = {
+	default = no
+
+	light_infantry = 0.2
+	archers = 0.2
+	light_cavalry = 0.1
+
+	heavy_infantry = 0.2
+	heavy_cavalry = 0.1
+	chariots = 0.1
+}
+
+levy_lycian = {
+	default = no
+
+	light_infantry = 0.4
+	archers = 0.2
+	light_cavalry = 0.2
+
+	heavy_infantry = 0.1
+	heavy_cavalry = 0.1
+}
+
+levy_anatolian_tribes = {
+	default = no
+
+	light_infantry = 0.4
+	archers = 0.3
+	light_cavalry = 0.2
+
+	heavy_infantry = 0.1
+}

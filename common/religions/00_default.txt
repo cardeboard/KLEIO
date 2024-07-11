@@ -1,0 +1,133 @@
+﻿roman_pantheon = { # Hellenic
+	color = hsv { 0.65  0.7  0.8 }
+	religion_category = pantheon
+}
+egyptian_pantheon = { # Kemetic
+	color = hsv { 0.15  1  0.7 }
+	religion_category = pantheon
+}
+carthaginian_pantheon = { # Canaanite
+	color = hsv { 0.75 0.9 0.73 }
+	religion_category = pantheon
+}
+aramaean_pantheon = { # Aramaean
+	color = hsv { 0.75 0.9 0.73 }
+	religion_category = pantheon
+}
+shamanism = { # Zalmoxian
+	color = hsv { 0.0 0.5 1.0 }
+	religion_category = pantheon
+}
+caucasian_religion = { # Caucasian
+	color = { 0.6 0.6 0.9 }
+	religion_category = pantheon
+}
+mesopotamian_religion = { # Mesopotamian
+	color = hsv { 0.05 1.0 0.5 }
+	religion_category = pantheon
+}
+elamite_religion = { # Elamite
+	color = hsv { 0.72 0.67 0.22 }
+	religion_category = pantheon
+}
+armenian_religion = { # Khaldic
+	color = { 0.3 0.1 0.2  }
+	religion_category = pantheon
+}
+anatolian_religion = { # Anatolian
+	color = hsv { 0.32 0.45 0.9 }
+	religion_category = pantheon
+}
+druidism = { # Celtic
+	color = hsv { 0.3 0.7 0.4 }
+	religion_category = pantheon
+}
+animism = { # Iberic
+	color = hsv { 0.07 1.0 1.0 }
+	religion_category = pantheon
+}
+judaism = { # Jewish
+	color = hsv { 0.65 1.0 1.0 }
+	religion_category = prophets
+	can_deify_ruler = no
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+samaritanism = { # Samaritanism
+	color = hsv { 0.65 1.0 1.0 }
+	religion_category = prophets
+	can_deify_ruler = no
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+zoroaster = { # Mazdaism
+	color = hsv { 0.52 0.77 0.72 }
+	religion_category = firetemples
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+berber_religion = { # Libyan
+	color = hsv { 0.05  0.5  0.4 }
+	religion_category = pantheon
+}
+germanic_religion = { # Tuistic
+	color = hsv { 0.05 0.7 0.3 }
+	religion_category = pantheon
+}
+indo_iranian_religion = { # Heptadic
+	color = hsv { 0.2 0.5 0.8 }
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+arabian_pantheon = { # Arabian
+	color = hsv { 0.3 0.7 0.6 }
+	religion_category = pantheon
+}
+buddhism = { # Buddhism
+	color = hsv { 0.15 0.7 1 }
+	religion_category = sages
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+hindu = { # Hinduism
+	color = hsv { 0.05 1 0.9 }
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+eastern_animism = { # Ritualist
+	color = hsv { 0.03 0.7 0.7 }
+	religion_category = pantheon
+}
+bon_religion = { # Bon
+	color = hsv { 0.95 1.0 0.8 }
+	religion_category = pantheon
+}
+matrist_religion = { # Matrist
+	color = hsv { 0.5 0.4 0.7 }
+	religion_category = pantheon
+}
+jainism = { # Jain
+	color = hsv { 0.7 0.2 0.2 }
+	religion_category = sages
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+etruscan_religion = { #Etruscan
+	color = { 0.2 0.2 0.2 }
+	religion_category = pantheon
+}
+italic_religion = { #Italic
+	color = hsv { 0 0.91 0.55 }
+	religion_category = pantheon
+}
+nuragic_religion = { #Sardinian
+	color = hsv { 0.2  0.25  0.5 }
+	religion_category = pantheon
+}
+
+urartian_religion = { #Urartian
+	color = hsv { 0.7 0.6 0.6 }
+	religion_category = pantheon
+}

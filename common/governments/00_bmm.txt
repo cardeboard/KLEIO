@@ -1,0 +1,19 @@
+﻿temple_state = {
+	civic_ideas = 1
+	religious_ideas = 2
+	type = monarchy
+	
+	bonus = {
+		omen_power = 0.15
+		global_commerce_modifier = 0.20
+	}
+	base = {
+		country_civilization_value = 35
+	}
+	
+	use_regnal_numbers = yes
+	
+	ruler_consort_benefits = no
+	
+	color = rgb { 184  25  255 }
+}

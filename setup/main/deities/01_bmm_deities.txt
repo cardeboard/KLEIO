@@ -1,0 +1,908 @@
+deity_manager = {
+	deities_database = {
+		1500 = {
+			key = omen_arma
+			deity = deity_arma
+		}
+		1501 = {
+			key = omen_men_askaenos
+			deity = deity_men_askaenos
+		}
+		1502 = {
+			key = omen_santa
+			deity = deity_santa
+		}
+		1503 = {
+			key = omen_tarhunt
+			deity = deity_tarhunt
+		}
+		1504 = {
+			key = omen_rondia
+			deity = deity_rondia
+		}
+		1505 = {
+			key = omen_kubaba
+			deity = deity_kubaba
+		}
+		1506 = {
+			key = omen_muli
+			deity = deity_muli
+		}
+		1507 = {
+			key = omen_sandan
+			deity = deity_sandan
+		}
+		1508 = {
+			key = omen_tiwaz
+			deity = deity_tiwaz
+		}
+		1509 = {
+			key = omen_matar_kubeliya
+			deity = deity_matar_kubeliya
+		}
+		1510 = {
+			key = omen_meter_oreia
+			deity = deity_meter_oreia
+		}
+		1511 = {
+			key = omen_ermma
+			deity = deity_ermma
+		}
+		1512 = {
+			key = omen_ertemi
+			deity = deity_ertemi
+		}
+		1513 = {
+			key = omen_ntro
+			deity = deity_ntro
+		}
+		1514 = {
+			key = omen_padrita
+			deity = deity_padrita
+		}
+		1515 = {
+			key = omen_qeli
+			deity = deity_qeli
+		}
+		1516 = {
+			key = omen_ddeweze
+			deity = deity_ddeweze
+		}
+		1517 = {
+			key = omen_iya
+			deity = deity_iya
+		}
+		1518 = {
+			key = omen_xba
+			deity = deity_xba
+		}
+		1519 = {
+			key = omen_hnta
+			deity = deity_hnta
+		}
+		1520 = {
+			key = omen_qebeliya
+			deity = deity_qebeliya
+		}
+		1521 = {
+			key = omen_armo
+			deity = deity_armo
+		}
+		1522 = {
+			key = omen_osogoa
+			deity = deity_osogoa
+		}
+		1523 = {
+			key = omen_sinuri
+			deity = deity_sinuri
+		}
+		1524 = {
+			key = omen_imbramos
+			deity = deity_imbramos
+		}
+		1525 = {
+			key = omen_maiandros
+			deity = deity_maiandros
+		}
+		1526 = {
+			key = omen_mandros
+			deity = deity_mandros
+		}
+		1527 = {
+			key = omen_hata
+			deity = deity_hata
+		}
+		1528 = {
+			key = omen_artimu
+			deity = deity_artimu
+		}
+		1529 = {
+			key = omen_kuvava
+			deity = deity_kuvava
+		}
+		1530 = {
+			key = omen_lews
+			deity = deity_lews
+		}
+		1531 = {
+			key = omen_qldans
+			deity = deity_qldans
+		}
+		1532 = {
+			key = omen_baki
+			deity = deity_baki
+		}
+		1533 = {
+			key = omen_kandaules
+			deity = deity_kandaules
+		}
+		1534 = {
+			key = omen_artemis_ephesia
+			deity = deity_artemis_ephesia
+		}
+		1535 = {
+			key = omen_lametru
+			deity = deity_lametru
+		}
+		1536 = {
+			key = omen_sozon
+			deity = deity_sozon
+		}
+		1537 = {
+			key = omen_apollo_sidetes
+			deity = deity_apollo_sidetes
+		}
+		1538 = {
+			key = omen_meis
+			deity = deity_meis
+		}
+		1539 = {
+			key = omen_eurymedon
+			deity = deity_eurymedon
+		}
+		1540 = {
+			key = omen_angdeisis
+			deity = deity_angdeisis
+		}
+		1541 = {
+			key = omen_meter_pylaia
+			deity = deity_meter_pylaia
+		}
+		1542 = {
+			key = omen_solymos
+			deity = deity_solymos
+		}
+		1543 = {
+			key = omen_mamblasenos
+			deity = deity_mamblasenos
+		}
+		1544 = {
+			key = omen_viaros
+			deity = deity_viaros
+		}
+		1545 = {
+			key = omen_meter_zizimene
+			deity = deity_meter_zizimene
+		}
+		1546 = {
+			key = omen_halys
+			deity = deity_halys
+		}
+		1547 = {
+			key = omen_lairbenos
+			deity = deity_lairbenos
+		}
+		1548 = {
+			key = omen_ata
+			deity = deity_ata
+		}
+		1549 = {
+			key = omen_sangarios
+			deity = deity_sangarios
+		}
+		1550 = {
+			key = omen_akrisias
+			deity = deity_akrisias
+		}
+		1551 = {
+			key = omen_apelan
+			deity = deity_apelan
+		}
+		1552 = {
+			key = omen_bas
+			deity = deity_bas
+		}
+		1553 = {
+			key = omen_mithraphata
+			deity = deity_mithraphata
+		}
+		1554 = {
+			key = omen_gdan_ma
+			deity = deity_gdan_ma
+		}
+		1555 = {
+			key = omen_asbamaios
+			deity = deity_asbamaios
+		}
+		1556 = {
+			key = omen_baaltar
+			deity = deity_baaltar
+		}
+		1557 = {
+			key = omen_edbebe
+			deity = deity_edbebe
+		}
+		1558 = {
+			key = omen_eni_mahanahi
+			deity = deity_eni_mahanahi
+		}
+		1559 = {
+			key = omen_hekate
+			deity = deity_hekate
+		}
+		1560 = {
+			key = omen_hosios_kai_dikaios
+			deity = deity_hosios_kai_dikaios
+		}
+		1561 = {
+			key = omen_leto
+			deity = deity_leto
+		}
+		1562 = {
+			key = omen_maliya
+			deity = deity_maliya
+		}
+		1563 = {
+			key = omen_maseis
+			deity = deity_maseis
+		}
+		1564 = {
+			key = omen_mazdaios
+			deity = deity_mazdaios
+		}
+		1565 = {
+			key = omen_zeus_kimistenos
+			deity = deity_zeus_kimistenos
+		}
+		1566 = {
+			key = omen_pylon
+			deity = deity_pylon
+		}
+		1567 = {
+			key = omen_meter_steunene
+			deity = deity_meter_steunene
+		}
+		1568 = {
+			key = omen_trqqas
+			deity = deity_trqqas
+		}
+		1569 = {
+			key = omen_trqund
+			deity = deity_trqund
+		}
+		1570 = {
+			key = omen_wanassa
+			deity = deity_wanassa
+		}
+		1571 = {
+			key = omen_malis
+			deity = deity_malis
+		}
+		1572 = {
+			key = omen_zeus_labraundos
+			deity = deity_zeus_labraundos
+		}
+		1573 = {
+			key = omen_zeus_olbius
+			deity = deity_zeus_olbius
+		}
+		1574 = {
+			key = omen_dioskouroi
+			deity = deity_dioskouroi
+		}
+		1575 = {
+			key = omen_zeus_dolikhenos
+			deity = deity_zeus_dolikhenos
+		}
+		1576 = {
+			key = omen_leukothea
+			deity = deity_leukothea
+		}
+		1577 = {
+			key = omen_vakhsh
+			deity = deity_vakhsh
+		}
+		1578 = {
+			key = omen_mao
+			deity = deity_mao
+		}
+		1579 = {
+			key = omen_varshayn
+			deity = deity_varshayn
+		}
+		1580 = {
+			key = omen_zemela
+			deity = deity_zemela
+		}
+		1581 = {
+			key = omen_zruvan
+			deity = deity_zruvan
+		}
+		1582 = {
+			key = omen_hvar_khshachta
+			deity = deity_hvar_khshachta
+		}
+		1583 = {
+			key = omen_hauma
+			deity = deity_hauma
+		}
+		1584 = {
+			key = omen_thwasha
+			deity = deity_thwasha
+		}
+		1585 = {
+			key = omen_akhshti
+			deity = deity_akhshti
+		}
+		1586 = {
+			key = omen_tiri
+			deity = deity_tiri
+		}
+		1587 = {
+			key = omen_vayu
+			deity = deity_vayu
+		}
+		1588 = {
+			key = omen_rashnu
+			deity = deity_rashnu
+		}
+		1589 = {
+			key = omen_airyaman
+			deity = deity_airyaman
+		}
+		1590 = {
+			key = omen_ahurani
+			deity = deity_ahurani
+		}
+		1591 = {
+			key = omen_ahuramazda
+			deity = deity_ahuramazda
+		}
+		1592 = {
+			key = omen_drvaspa
+			deity = deity_drvaspa
+		}
+		1593 = {
+			key = omen_vata
+			deity = deity_vata
+		}
+		1594 = {
+			key = omen_apam_napat
+			deity = deity_apam_napat
+		}
+		1595 = {
+			key = omen_yima
+			deity = deity_yima
+		}
+		1596 = {
+			key = omen_vohu_manah
+			deity = deity_vohu_manah
+		}
+		1597 = {
+			key = omen_ashi
+			deity = deity_ashi
+		}
+		1598 = {
+			key = omen_khshathra
+			deity = deity_khshathra
+		}
+		1599 = {
+			key = omen_haurvatat
+			deity = deity_haurvatat
+		}
+		1600 = {
+			key = omen_armaiti
+			deity = deity_armaiti
+		}
+		1601 = {
+			key = omen_chista
+			deity = deity_chista
+		}
+		1602 = {
+			key = omen_hushiti
+			deity = deity_hushiti
+		}
+		1603 = {
+			key = omen_ama
+			deity = deity_ama
+		}
+		1604 = {
+			key = omen_uparatat
+			deity = deity_uparatat
+		}
+		1605 = {
+			key = omen_raman
+			deity = deity_raman
+		}
+		1606 = {
+			key = omen_daena
+			deity = deity_daena
+		}
+		1607 = {
+			key = omen_ham_vainti
+			deity = deity_ham_vainti
+		}
+		1608 = {
+			key = omen_anaitis
+			deity = deity_anaitis
+		}
+		1609 = {
+			key = omen_apollo_klarios
+			deity = deity_apollo_klarios
+		}
+		1610 = {
+			key = omen_apollo_oulios
+			deity = deity_apollo_oulios
+		}
+		1611 = {
+			key = omen_theoi_megaloi
+			deity = deity_theoi_megaloi
+		}
+		1612 = {
+			key = omen_apollo_didymeus
+			deity = deity_apollo_didymeus
+		}
+		1613 = {
+			key = omen_astghik
+			deity = deity_astghik
+		}
+		1614 = {
+			key = omen_anggh
+			deity = deity_anggh
+		}
+		1615 = {
+			key = omen_barshamin
+			deity = deity_barshamin
+		}
+		1616 = {
+			key = omen_zeus_oromasdes
+			deity = deity_zeus_oromasdes
+		}
+		1617 = {
+			key = omen_herakles_artagnes
+			deity = deity_herakles_artagnes
+		}
+		1618 = {
+			key = omen_apollo_mithras
+			deity = deity_apollo_mithras
+		}
+		1619 = {
+			key = omen_kommagene
+			deity = deity_kommagene
+		}
+		1620 = {
+			key = omen_zeus_abrettenios
+			deity = deity_zeus_abrettenios
+		}
+		1621 = {
+			key = omen_natri
+			deity = deity_natri
+		}
+		1622 = {
+			key = omen_mefitis
+			deity = deity_mefitis
+		}
+		1623 = {
+			key = omen_zis
+			deity = deity_zis
+		}
+		1624 = {
+			key = omen_mamers
+			deity = deity_mamers
+		}
+		1625 = {
+			key = omen_angitia
+			deity = deity_angitia
+		}
+		1626 = {
+			key = omen_feronia
+			deity = deity_feronia
+		}
+		1627 = {
+			key = omen_marica
+			deity = deity_marica
+		}
+		1628 = {
+			key = omen_iuveis
+			deity = deity_iuveis
+		}
+		1629 = {
+			key = omen_herentas
+			deity = deity_herentas
+		}
+		1630 = {
+			key = omen_kerres
+			deity = deity_kerres
+		}
+		1631 = {
+			key = omen_tursa
+			deity = deity_tursa
+		}
+		1632 = {
+			key = omen_vofionos
+			deity = deity_vofionos
+		}
+		1633 = {
+			key = omen_cupra
+			deity = deity_cupra
+		}
+		1634 = {
+			key = omen_altno
+			deity = deity_altno
+		}
+		1635 = {
+			key = omen_reitia
+			deity = deity_reitia
+		}
+		1636 = {
+			key = omen_trumusiate
+			deity = deity_trumusiate
+		}
+		1637 = {
+			key = omen_alkomno
+			deity = deity_alkomno
+		}
+		1638 = {
+			key = omen_mater_matuta
+			deity = deity_mater_matuta
+		}
+		1639 = {
+			key = omen_rath
+			deity = deity_rath
+		}
+		1640 = {
+			key = omen_veltune
+			deity = deity_veltune
+		}
+		1641 = {
+			key = omen_cavatha
+			deity = deity_cavatha
+		}
+		1642 = {
+			key = omen_tluschva
+			deity = deity_tluschva
+		}
+		1643 = {
+			key = omen_lurs
+			deity = deity_lurs
+		}
+		1644 = {
+			key = omen_selvans
+			deity = deity_selvans
+		}
+		1645 = {
+			key = omen_thesan
+			deity = deity_thesan
+		}
+		1646 = {
+			key = omen_vei
+			deity = deity_vei
+		}
+		1647 = {
+			key = omen_suri
+			deity = deity_suri
+		}
+		1648 = {
+			key = omen_culsans
+			deity = deity_culsans
+		}
+		1649 = {
+			key = omen_tiu
+			deity = deity_tiu
+		}
+		1650 = {
+			key = omen_vanth
+			deity = deity_vanth
+		}
+		1651 = {
+			key = omen_thufltha
+			deity = deity_thufltha
+		}
+		1652 = {
+			key = omen_adranus
+			deity = deity_adranus
+		}
+		1653 = {
+			key = omen_men_pharnakou
+			deity = deity_men_pharnakou
+		}
+		1654 = {
+			key = omen_ma_nikephoros
+			deity = deity_ma_nikephoros
+		}
+		1655 = {
+			key = omen_armazi_albanios
+			deity = deity_armazi_albanios
+		}
+		1656 = {
+			key = omen_yahweh
+			deity = deity_yahweh
+		}
+		1657 = {
+			key = omen_qaus
+			deity = deity_qaus
+		}
+		1658 = {
+			key = omen_anu
+			deity = deity_anu
+		}
+		1659 = {
+			key = omen_ishtaran
+			deity = deity_ishtaran
+		}
+		1660 = {
+			key = omen_ishtar_arbail
+			deity = deity_ishtar_arbail
+		}
+		1661 = {
+			key = omen_ishtar_ninua
+			deity = deity_ishtar_ninua
+		}
+		1662 = {
+			key = omen_nanaya
+			deity = deity_nanaya
+		}
+		1663 = {
+			key = omen_aya
+			deity = deity_aya
+		}
+		1664 = {
+			key = omen_baba
+			deity = deity_baba
+		}
+		1665 = {
+			key = omen_nidaba
+			deity = deity_nidaba
+		}
+		1666 = {
+			key = omen_zababa
+			deity = deity_zababa
+		}
+		1667 = {
+			key = omen_papsukkal
+			deity = deity_papsukkal
+		}
+		1668 = {
+			key = omen_nergal
+			deity = deity_nergal
+		}
+		1669 = {
+			key = omen_erra
+			deity = deity_erra
+		}
+		1670 = {
+			key = omen_sin_harranu
+			deity = deity_sin_harranu
+		}
+		1671 = {
+			key = omen_lugalirra_and_meslamtaea
+			deity = deity_lugalirra_and_meslamtaea
+		}
+		1672 = {
+			key = omen_aramazd_spitakapar
+			deity = deity_aramazd_spitakapar
+		}
+		1673 = {
+			key = omen_vahagn_vishapakagh
+			deity = deity_vahagn_vishapakagh
+		}
+		1674 = {
+			key = omen_anahit_oskemayr
+			deity = deity_anahit_oskemayr
+		}
+		1675 = {
+			key = omen_varlaagn
+			deity = deity_varlaagn
+		}
+		1676 = {
+			key = omen_shalman
+			deity = deity_shalman
+		}
+		1677 = {
+			key = omen_tammuzi
+			deity = deity_tammuzi
+		}
+		1678 = {
+			key = omen_amasagnudi
+			deity = deity_amasagnudi
+		}
+		1679 = {
+			key = omen_dagan
+			deity = deity_dagan
+		}
+		1680 = {
+			key = omen_shehmaa
+			deity = deity_shehmaa
+		}
+		1681 = {
+			key = omen_girra
+			deity = deity_girra
+		}
+		1682 = {
+			key = omen_asalluhi
+			deity = deity_asalluhi
+		}
+		1683 = {
+			key = omen_gula
+			deity = deity_gula
+		}
+		1684 = {
+			key = omen_yerah
+			deity = deity_yerah #moongod
+		}
+		1685 = {
+			key = omen_milkom
+			deity = deity_milkom #lightroyalgod
+		}
+		1686 = {
+			key = omen_kemosh
+			deity = deity_kemosh #royalwarriorgod
+		}
+		1687 = {
+			key = omen_horon
+			deity = deity_horon #antidemon
+		}
+		1688 = {
+			key = omen_baal_marqod
+			deity = deity_baal_marqod #lordofthedance
+		}
+		1689 = {
+			key = omen_rashap
+			deity = deity_rashap
+		}
+		1690 = {
+			key = omen_rashap_edil
+			deity = deity_rashap_edil
+		}
+		1691 = {
+			key = omen_shadrape
+			deity = deity_shadrape
+		}
+		1692 = {
+			key = omen_sid
+			deity = deity_sid
+		}
+		1693 = {
+			key = omen_amma
+			deity = deity_amma
+		}
+		1694 = {
+			key = omen_adom
+			deity = deity_adom
+		}
+		1695 = {
+			key = omen_ashirta
+			deity = deity_ashirta
+		}
+		1696 = {
+			key = omen_panebaal
+			deity = deity_panebaal
+		}
+		1697 = {
+			key = omen_eshmun_meerreh
+			deity = deity_eshmun_meerreh
+		}
+		1698 = {
+			key = omen_tinnit_panebaal
+			deity = deity_tinnit_panebaal
+		}
+		1699 = {
+			key = omen_mishor
+			deity = deity_mishor
+		}
+		1700 = {
+			key = omen_sidiq
+			deity = deity_sidiq
+		}
+		1701 = {
+			key = omen_sakun
+			deity = deity_sakun
+		}
+		1702 = {
+			key = omen_baal_saphon
+			deity = deity_baal_saphon
+		}
+		1703 = {
+			key = omen_hawwat
+			deity = deity_hawwat
+		}
+		1704 = {
+			key = omen_baal_shamem
+			deity = deity_baal_shamem
+		}
+		1705 = {
+			key = omen_hadad_rammanu
+			deity = deity_hadad_rammanu
+		}
+		1706 = {
+			key = omen_barada
+			deity = deity_barada
+		}
+		1707 = {
+			key = omen_hazeal
+			deity = deity_hazeal
+		}
+		1708 = {
+			key = omen_sahr
+			deity = deity_sahr
+		}
+		1709 = {
+			key = omen_halil
+			deity = deity_halil
+		}
+		1710 = {
+			key = omen_aziz
+			deity = deity_aziz
+		}
+		1711 = {
+			key = omen_munim
+			deity = deity_munim
+		}
+		1712 = {
+			key = omen_nahay
+			deity = deity_nahay
+		}
+		1713 = {
+			key = omen_baalshamayin
+			deity = deity_baalshamayin
+		}
+		1714 = {
+			key = omen_ara #betyl
+			deity = deity_ara
+		}
+		1715 = {
+			key = omen_ilaha_gabal #betyl
+			deity = deity_ilaha_gabal
+		}
+		1716 = {
+			key = omen_bel
+			deity = deity_bel
+		}
+		1717 = {
+			key = omen_aphlad #son of hadad
+			deity = deity_aphlad
+		}
+		1718 = {
+			key = omen_bethel
+			deity = deity_bethel
+		}
+		1719 = {
+			key = omen_nebo
+			deity = deity_nebo
+		}
+		1720 = {
+			key = omen_reshef
+			deity = deity_reshef
+		}
+		1721 = {
+			key = omen_nannai
+			deity = deity_nannai
+		}
+		1722 = {
+			key = omen_yarhibol
+			deity = deity_yarhibol
+		}
+		1723 = {
+			key = omen_aglibol
+			deity = deity_aglibol
+		}
+		1724 = {
+			key = omen_artumul_sfardeti_astrko
+			deity = deity_artumul_sfardeti_astrko
+		}
+		1725 = {
+			key = omen_anaitis_barzochara
+			deity = deity_anaitis_barzochara
+		}
+	}
+}
